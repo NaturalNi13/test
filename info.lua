@@ -1,1 +1,4 @@
-local owner = "Natural Idiot"
+-- info.lua content:
+return function()
+    owner = "Natural Idiot"
+end

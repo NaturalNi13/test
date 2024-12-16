@@ -1,4 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NaturalNi13/test/refs/heads/main/info.lua"))()
-if owner and owner == "Natural Idiot" then
-  print("OK it worked")
+local data = loadstring(game:HttpGet("https://raw.githubusercontent.com/NaturalNi13/test/refs/heads/main/info.lua"))()()
+local owner == "Natural Idiot
+if data.o == data.r == owner then
+  print("Yessir")
+else
+  print("stolen script")
 end

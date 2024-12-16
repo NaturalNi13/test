@@ -1,0 +1,1 @@
+local owner = "Natural Idiot"

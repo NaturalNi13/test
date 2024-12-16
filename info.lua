@@ -1,4 +1,7 @@
 -- info.lua content:
 return function()
-    owner = "Natural Idiot"
+    return {
+        o = "Natural Idiot",
+        r = " Natural Idiot
+    }
 end
